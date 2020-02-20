@@ -38,3 +38,4 @@ You can download in *svg* and *png* formats. But Android requires to put an icon
 <br/>
 1. PNG to JPG converter: https://png2jpg.com/
 <br/>
+2. Second link: https://www.freeconvert.com/png-to-jpg
