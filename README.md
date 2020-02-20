@@ -10,5 +10,5 @@ Resources that Android Developer need. Feel free to request your need or contrib
 <a href="https://stackoverflow.com/questions/28065267/mipmaps-vs-drawable-folders">Source (StackOverflow)</a>
 <br/>
 ### Notes
-* As you understand, you should use mipmap and files from the different densities.
-* Don't forget about rounded also. Icons are rectangular and rounded.
+1. As you understand, you should use mipmap and files from the different densities.
+2. Don't forget about rounded also. Icons are rectangular and rounded.
