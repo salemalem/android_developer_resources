@@ -12,10 +12,9 @@ Resources that Android Developer need. Feel free to request your need or contrib
 As you understand, you should use mipmap and files from the different densities. Don't forget about rounded also. Icons are rectangular and rounded.
 
 ## Links to download icons
-Google's Material design: https://material.io/resources/icons/?style=baseline
+1. Google's Material design: https://material.io/resources/icons/?style=baseline
 <br/>
 <img src="https://i.imgur.com/otIOpq7.png" width="200px"/>
 <img src="https://i.imgur.com/0QeP0Ki.png" width="500px"/>
-<br/>
-Icon8: https://icons8.com/icons/material
-Flat icon: https://www.flaticon.com/free-icons/android
+2. Icon8: https://icons8.com/icons/material
+3. Flat icon: https://www.flaticon.com/free-icons/android
