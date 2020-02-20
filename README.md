@@ -46,3 +46,5 @@ You can download in *svg* and *png* formats. But Android requires to put an icon
 1. **SVG** to JPG converter: https://www.zamzar.com/convert/svg-to-jpg/
 
 2. Second link: https://cloudconvert.com/svg-to-jpg
+
+3. Third link: https://convertio.co/svg-jpg/
