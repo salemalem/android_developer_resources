@@ -36,8 +36,12 @@ Source: https://github.com/romannurik/AndroidAssetStudio
 ## Convert it
 You can download in *svg* and *png* formats. But Android requires to put an icon as *xml* or *jpg*. 
 <br/>
-1. PNG to JPG converter: https://png2jpg.com/
+1. **PNG** to JPG converter: https://png2jpg.com/
 <br/>
 2. Second link: https://www.freeconvert.com/png-to-jpg
 <br/>
 3. Third link: https://www.zamzar.com/convert/png-to-jpg/
+<br/>
+
+1. **SVG** to JPG converter: https://www.zamzar.com/convert/svg-to-jpg/
+<br/>
