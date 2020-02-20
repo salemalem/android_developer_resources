@@ -6,3 +6,4 @@ Resources that Android Developer need. Feel free to request your need or contrib
 3. Go to "application" tag, "android:icon" attribute.
 4. Initially, your icon will be @mipmap/ic_launcher
 <img src="https://i.imgur.com/GgUatKU.png" alt="android herarchy"/>
+<img src="https://i.imgur.com/ipE5ikq.png" alt="stackoverflow answer to mipmap question"/>
