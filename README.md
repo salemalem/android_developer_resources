@@ -31,3 +31,8 @@ As you understand, you should use mipmap and files from the different densities.
 https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html
 <br/>
 Source: https://github.com/romannurik/AndroidAssetStudio
+
+
+## Convert it
+You can download in *svg* and *png* formats. But Android requires to put an icon as *xml* or *jpg*. 
+https://png2jpg.com/
