@@ -15,4 +15,4 @@ As you understand, you should use mipmap and files from the different densities.
 Google's Material design: https://material.io/resources/icons/?style=baseline
 <br/>
 <img src="https://i.imgur.com/otIOpq7.png" width="200px"/>
-<img src="https://i.imgur.com/0QeP0Ki.png" width="700px"/>
+<img src="https://i.imgur.com/0QeP0Ki.png" width="500px"/>
