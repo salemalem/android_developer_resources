@@ -22,3 +22,4 @@ As you understand, you should use mipmap and files from the different densities.
 3. Flat icon: https://www.flaticon.com/free-icons/android
 <br/>
 4. Icon finder: https://www.iconfinder.com/search/?q=android
+5. Iconspedia: https://www.iconspedia.com/icon/android-icon-27510.html
