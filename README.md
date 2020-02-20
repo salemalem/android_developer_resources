@@ -27,3 +27,6 @@ As you understand, you should use mipmap and files from the different densities.
 <br/>
 6. Android icons: https://www.androidicons.com/
 <br/>
+# Your own icon generator
+https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html
+Source: https://github.com/romannurik/AndroidAssetStudio
