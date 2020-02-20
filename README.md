@@ -16,5 +16,8 @@ As you understand, you should use mipmap and files from the different densities.
 <br/>
 <img src="https://i.imgur.com/otIOpq7.png" width="200px"/>
 <img src="https://i.imgur.com/0QeP0Ki.png" width="500px"/>
+<br/>
 2. Icon8: https://icons8.com/icons/material
+<br/>
 3. Flat icon: https://www.flaticon.com/free-icons/android
+<br/>
